@@ -31,7 +31,7 @@ header {
     padding: 20px 40px;
     position: fixed;
     top: 0;
-    background: #283647;
+    background: #94A1A2;
     box-sizing: border-box;
     z-index: 9999;
     position: absolute;
@@ -42,12 +42,12 @@ header a {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;
     text-decoration: none;
-    color: #ffffff;
+    color: #94A1A2;
     margin: 10px;
 }
 
 header a:hover {
-    color: #5790aa;
+    color: #94A1A2;
     transition: 0.4s;
 }
 
@@ -60,12 +60,12 @@ h1 {
 }
 
 h2 {
-    color: #fff;
+    color: #94A1A2;
     font-size: 35px;
 }
 
 h3 {
-    color: #fff;
+    color: #94A1A2;
     font-size: 30px;
     display: flex;
 }
